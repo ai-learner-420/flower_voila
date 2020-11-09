@@ -5,4 +5,4 @@ This is a simple flower classifier for roses, daisies and lotuses.
 
 Hosted on [Binder](https://mybinder.org/):
 
-https://hub.gke2.mybinder.org/user/ai-learner-420-flower_voila-on5lkrwk/voila/render/flower_classifier.ipynb
+https://mybinder.org/v2/gh/ai-learner-420/flower_voila/f970167e17cc35f89e2fbe7fefb6a3a716ed373a
